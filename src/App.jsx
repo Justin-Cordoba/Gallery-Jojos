@@ -1,4 +1,4 @@
-import "./App.css";
+
 import GalleyImage from "./components/GalleryImage";
 
 function App() {
